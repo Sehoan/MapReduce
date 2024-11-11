@@ -3,8 +3,6 @@ package mr
 //
 // RPC definitions.
 //
-// remember to capitalize all names.
-//
 
 import "os"
 import "strconv"

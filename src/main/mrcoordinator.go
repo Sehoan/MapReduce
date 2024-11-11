@@ -6,10 +6,8 @@ package main
 //
 // go run mrcoordinator.go pg*.txt
 //
-// Please do not change this file.
-//
 
-import "6.5840/mr"
+import "mapreduce/mr"
 import "time"
 import "os"
 import "fmt"
